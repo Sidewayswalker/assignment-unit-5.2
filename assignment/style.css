@@ -1,0 +1,25 @@
+header {
+    background-color: rgb(38, 101, 51);
+    color: rgb(255, 227, 45);
+    text-align: center;
+}
+main {
+    background-color: lightgrey;
+}
+body {
+    background-image: url("record.png");
+    background-position: center;
+    margin: 0px;
+    padding: 1em;
+}
+h2{
+    padding-bottom: .5em;
+}
+h3 {
+    color: rgb(249, 122, 54);
+}
+footer {
+    background-color: bisque;
+    column-count: 3;
+    column-width: 200px;
+}
